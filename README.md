@@ -24,11 +24,8 @@
 
 
 ## &#x1f4c8; GitHub Stats
-<div style="display:flex; flex-direction:row">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorinCiocirlan&langs_count=5)](https://github.com/FlorinCiocirlan/github-readme-stats)
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorinCiocirlan&langs_count=5">
     <span> <img align="center" src="https://github-readme-stats.vercel.app/api/?username=FlorinCiocirlan&theme=graywhite" /> </span>
-</div>
-
 
 
 <!--
