@@ -26,7 +26,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <div style="display:flex; flex-direction:row>
- <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=FlorinCiocirlan&count_langs=5" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlorinCiocirlan" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=FlorinCiocirlan&theme=graywhite" />
 </div>
 
