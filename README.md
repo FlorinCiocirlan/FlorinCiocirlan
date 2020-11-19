@@ -24,12 +24,12 @@
 
 
 ## &#x1f4c8; GitHub Stats
-    <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FlorinCiocirlan&langs_count=5" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=FlorinCiocirlan&theme=graywhite" />
 
+<div style="display:flex; flex-direction:row>
+ <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=FlorinCiocirlan&count_langs=5" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/?username=FlorinCiocirlan&theme=graywhite" />
+</div>
 
-<!--
-**FlorinCiocirlan/FlorinCiocirlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
