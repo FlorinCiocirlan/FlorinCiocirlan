@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/70/d6/b3/70d6b3aaf2857dce05601505b8ca7db0.jpg" alt="wallpaper" height="60%" width="100%">
+<img src="https://i.imgur.com/SYF48L9.png" alt="wallpaper" height="60%" width="100%">
 
 
 ## 🔧 Technologies & Tools
