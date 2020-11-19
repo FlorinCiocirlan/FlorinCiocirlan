@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=FlorinCiocirlan&theme=radical&title_color=ffffff&text_color=#ffffff" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=FlorinCiocirlan&theme=radical&title_color=ffffff&text_color=ffffff" />
 
 
 
