@@ -1,3 +1,6 @@
+<img src="https://i.pinimg.com/originals/70/d6/b3/70d6b3aaf2857dce05601505b8ca7db0.jpg" alt="wallpaper" width="100%" width="100%">
+
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
