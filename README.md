@@ -22,11 +22,9 @@
 ![](https://img.shields.io/badge/shell-Zsh-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/methodology-Agile/SCRUM-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-## &#128285; Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorinCiocirlan&langs_count=8)](https://github.com/FlorinCiocirlan/github-readme-stats)
 
 ## &#x1f4c8; GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorinCiocirlan&langs_count=8)](https://github.com/FlorinCiocirlan/github-readme-stats)
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=FlorinCiocirlan&theme=graywhite" />
 
 
