@@ -24,7 +24,7 @@
 
 
 ## &#x1f4c8; GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=FlorinCiocirlan)
+https://github-readme-stats.vercel.app/api?username=FlorinCiocirlan
 
 <div style="display:flex; flex-direction:row>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlorinCiocirlan" />
