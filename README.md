@@ -28,6 +28,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlorinCiocirlan" />
  </a>
  <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorinCiocirlan&hide=python&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorinCiocirlan&hide=python;css;html&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
