@@ -59,12 +59,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Florin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
 💬 Ask me about anything related to **Angular**, **NestJS**, **AWS Lambda**, **ElasticSearch**, **MySQL**, **DynamoDB**, or **Docker**.  
 📫 Reach me at: ciocirlanflorinld@gmail.com
 
